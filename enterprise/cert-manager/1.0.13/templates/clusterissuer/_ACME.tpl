@@ -23,6 +23,7 @@ spec:
     {{- if eq .type "HTTP01" }}
     - http01:
         ingress:
+          class: traefik
     {{- else }}
     - dns01:
       {{- if eq .type "cloudflare" }}
