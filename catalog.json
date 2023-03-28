@@ -67,9 +67,9 @@
             "location": "/home/runner/work/catalog/catalog/enterprise/cert-manager",
             "healthy": true,
             "healthy_error": null,
-            "latest_version": "1.0.12",
+            "latest_version": "1.0.13",
             "latest_app_version": "latest",
-            "latest_human_version": "latest_1.0.12",
+            "latest_human_version": "latest_1.0.13",
             "icon_url": "https://truecharts.org/img/hotlink-ok/chart-icons/cert-manager.png"
         },
         "authelia": {
